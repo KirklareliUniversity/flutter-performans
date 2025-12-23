@@ -67,5 +67,5 @@ flutter run -d windows
 > uygulamalı olarak göstermek amacıyla hazırlanmış bir demo çalışmadır.
 
 
-
+-**Sevdenur Aktürk**
 
